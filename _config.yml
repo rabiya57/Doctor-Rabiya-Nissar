@@ -1,0 +1,17 @@
+---
+title: Doctor Rabiya Nissar
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  cards:
+    title: cards
+    output: true
+markdown: kramdown
+baseurl: "/Doctor-Rabiya-Nissar"
+exclude:
+- README
+permalink: pretty

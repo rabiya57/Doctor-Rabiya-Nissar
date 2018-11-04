@@ -1,0 +1,16 @@
+.header-section{
+	background-color: #343a40;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+button:focus {
+	outline: none;
+}
+
+.navbar {
+	padding: 14px 16px;
+}
